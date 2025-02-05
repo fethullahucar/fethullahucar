@@ -25,6 +25,7 @@ Passionate and detail-oriented IT specialist with a strong background in **web d
 ### 🔧 Software & Tools  
 - **Microsoft Office**, **Notepad++**  
 - **Adobe Photoshop, Illustrator, Premiere, After Effects**  
+- **VS Code, Cursor, ChatGPT, Figma**  
 
 ### 🌍 Languages  
 - **English** | Proficient  
